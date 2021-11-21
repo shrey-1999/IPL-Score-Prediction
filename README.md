@@ -3,10 +3,6 @@
 This project predicts the Score of a IPL team based on different features including overs passed , runs scored ,
 wickets taken and etc. This predicts a given range of the score i.e , giving an upper and a lower limit . 
 
-In this project I have used multiple algorithms including linear regression , random forest regressor,
-decision tree regressor. In the end I deployed Linear Regression model due to lack of storage on heroku. otherwise on local all models 
-are working fine.
-
 ## Dependencies
 * tensorflow 	   	```pip install tensorflow```
 * scikit-learn     	```pip install -U scikit-learn```
