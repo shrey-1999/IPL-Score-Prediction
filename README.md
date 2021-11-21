@@ -1,10 +1,9 @@
-# Graduate Admission Prediction
+# IPL Score Prediction
 
-This project predicts the admission of a student based on different features including university rating, student’s undergrade GPA,
-GRE score, research experience and etc. This predicts that how much chances are there that the student will get admission in his
-selected university or not.
+This project predicts the Score of a IPL team based on different features including overs passed , runs scored ,
+wickets taken and etc. This predicts a given range of the score i.e , giving an upper and a lower limit . 
 
-In this project I have used multiple algorithms including linear regression, artificial neural network (ANN), random forest regressor,
+In this project I have used multiple algorithms including linear regression , random forest regressor,
 decision tree regressor. In the end I deployed Linear Regression model due to lack of storage on heroku. otherwise on local all models 
 are working fine.
 
