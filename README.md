@@ -26,7 +26,7 @@ are working fine.
 
 ## To Run this Project
 
-Download/clone this repository from this link: [GitHub Repository](https://github.com/shrey-1999/Graduate_Admission_Prediction) in your system. 
+Download/clone this repository from this link: [GitHub Repository](https://github.com/shrey-1999/IPL-Score-Prediction) in your system. 
 Open command line (anaconda prompt), go to the folder that contains all project files. Then run the command ```python app.py``` 
 which will give you an address like ```localhost:5000``` or ```localhost:8050``` copy that and paste it in the address bar of web browser. 
 Project's interface will load on the web browser.
