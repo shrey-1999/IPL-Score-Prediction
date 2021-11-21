@@ -20,7 +20,8 @@ are working fine.
 
 ## Flowchart
 
-![image](https://user-images.githubusercontent.com/42883586/137637095-6cbdcb31-7999-406b-9480-83edcdb4a725.png)
+![image](https://user-images.githubusercontent.com/42883586/142773081-db74c87b-bb98-4f35-a0c0-9df046813d3e.png)
+
 
 
 ## To Run this Project
