@@ -33,16 +33,18 @@ Project's interface will load on the web browser.
 Furthermore, I have deployed this project as web app on heroku. To visit that web app copy and paste this link in the address bar of
 web browser. Link: [Heroku Web App](https://student-admission-predict.herokuapp.com/)
  
-![image](https://user-images.githubusercontent.com/42883586/137612749-fb820436-6af3-4ff1-a8f2-3d071f27a408.png)
+![image](https://user-images.githubusercontent.com/42883586/142772771-10a22b50-3d77-46ae-bf97-e46a749bc001.png)
+
 
 <br>
 
 ## Entering Features for Prediction
 
-![image](https://user-images.githubusercontent.com/42883586/137612812-decd5602-9dca-4ca1-a640-c97804c04527.png)
+![image](https://user-images.githubusercontent.com/42883586/142772786-d893fbd1-24d3-4e65-a66c-6a5834883b4b.png)
+
 
 
 ## Prediction
+![image](https://user-images.githubusercontent.com/42883586/142772818-057d8667-293b-4076-aad4-29e956e9e120.png)
 
-![image](https://user-images.githubusercontent.com/42883586/137612852-fc6aa022-7ce6-4f8e-b079-96f3a80762a6.png)
 
