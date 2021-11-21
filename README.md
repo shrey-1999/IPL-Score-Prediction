@@ -31,7 +31,7 @@ which will give you an address like ```localhost:5000``` or ```localhost:8050```
 Project's interface will load on the web browser.
 
 Furthermore, I have deployed this project as web app on heroku. To visit that web app copy and paste this link in the address bar of
-web browser. Link: [Heroku Web App](https://student-admission-predict.herokuapp.com/)
+web browser. Link: [Heroku Web App](https://ipl-score-prediction2.herokuapp.com/)
  
 ![image](https://user-images.githubusercontent.com/42883586/142772771-10a22b50-3d77-46ae-bf97-e46a749bc001.png)
 
